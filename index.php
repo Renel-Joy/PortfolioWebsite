@@ -8,28 +8,6 @@
 <link rel="stylesheet" href="profile_asset/css/default.css">
 <link rel="stylesheet" href="profile_asset/css/magnific-popup.css">
 <link rel="stylesheet" href="profile_asset/css/media-queries.css">
-
-<link rel="icon" href="http://localhost/ladao/uploads/1713425340_aboutme.jpg">
-<link rel="stylesheet" href="http://localhost/ladao/plugins/fontawesome-free/css/all.min.css">
-<link rel="stylesheet" href="http://localhost/ladao/plugins/tempusdominus-bootstrap-4/css/tempusdominus-bootstrap-4.min.css">
-<link rel="stylesheet" href="http://localhost/ladao/plugins/datatables-bs4/css/dataTables.bootstrap4.min.css">
-<link rel="stylesheet" href="http://localhost/ladao/plugins/datatables-responsive/css/responsive.bootstrap4.min.css">
-<link rel="stylesheet" href="http://localhost/ladao/plugins/datatables-buttons/css/buttons.bootstrap4.min.css">
-<link rel="stylesheet" href="http://localhost/ladao/plugins/select2/css/select2.min.css">
-<link rel="stylesheet" href="http://localhost/ladao/plugins/select2-bootstrap4-theme/select2-bootstrap4.min.css">
-<link rel="stylesheet" href="http://localhost/ladao/plugins/icheck-bootstrap/icheck-bootstrap.min.css">
-<link rel="stylesheet" href="http://localhost/ladao/plugins/jqvmap/jqvmap.min.css">
-<link rel="stylesheet" href="http://localhost/ladao/dist/css/adminlte.css">
-<link rel="stylesheet" href="http://localhost/ladao/dist/css/custom.css">
-<link rel="stylesheet" href="http://localhost/ladao/plugins/overlayScrollbars/css/OverlayScrollbars.min.css">
-<link rel="stylesheet" href="http://localhost/ladao/plugins/daterangepicker/daterangepicker.css">
-<link rel="stylesheet" href="http://localhost/ladao/plugins/summernote/summernote-bs4.min.css">
-<link rel="stylesheet" href="http://localhost/ladao/plugins/sweetalert2-theme-bootstrap-4/bootstrap-4.min.css">
-<script src="http://localhost/ladao/plugins/jquery/jquery.min.js"></script>
-<script src="http://localhost/ladao/plugins/jquery-ui/jquery-ui.min.js"></script>
-<script src="http://localhost/ladao/plugins/sweetalert2/sweetalert2.min.js"></script>
-<script src="http://localhost/ladao/plugins/toastr/toastr.min.js"></script>
-<script src="http://localhost/ladao/dist/js/script.js"></script>
   <body style="background: linear-gradient(to right, #41C9E2, #ACE2E1, #F7EEDD) url(uploads/background.jpg) no-repeat top center;" >
 <!--style="background-color:#FCC8D1;"-->
    <header id="home">
